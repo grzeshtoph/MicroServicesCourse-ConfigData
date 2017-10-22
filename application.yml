@@ -6,6 +6,8 @@ eureka:
 ---
 spring:
   profiles: subject
+server:
+  port: 8000
 words: I,You,He,She,It
 
 ---
