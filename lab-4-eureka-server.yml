@@ -1,6 +1,5 @@
 ---
 spring:
-  profiles:
-    active: primary
+  profiles: primary
 server:
   port: 8010
