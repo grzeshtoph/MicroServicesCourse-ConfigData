@@ -30,12 +30,12 @@ server:
   port: 8003
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
-#---
-#spring:
-#  profiles: noun
-#server:
-#  port: 8004
-#words: boat,book,vote,seat,backpack,partition,groundhog
+---
+spring:
+  profiles: noun
+server:
+  port: 8004
+words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 spring:
