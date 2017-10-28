@@ -1,6 +1,6 @@
 wordConfig:
-  luckyWord: Hilltop Colony
-  preamble: The suprisingly lucky word is
+  luckyWord: Alexandria Safezone
+  preamble: The surprisingly lucky word is
 spring:
   rabbitmq:
     host: localhost
