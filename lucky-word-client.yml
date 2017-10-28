@@ -1,6 +1,6 @@
 wordConfig:
   luckyWord: Hilltop Colony
-  preamble: The very very lucky word is
+  preamble: The suprisingly lucky word is
 spring:
   rabbitmq:
     host: localhost
