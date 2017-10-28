@@ -1,3 +1,13 @@
 wordConfig:
   luckyWord: Rainbow
   preamble: The very lucky word is
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+# For simplicity, disable security when posting to bus/refresh:
+management:
+  security:
+    enabled: false
